@@ -1,0 +1,13 @@
+## Visual Studio & .NET
+.vs/
+**/[Bb]in/
+**/[Oo]bj/
+*.user
+
+## Frontend (Vite / React)
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+.env.local
+*.log
